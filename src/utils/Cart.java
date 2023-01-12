@@ -1,5 +1,5 @@
-package util;
-pubic Cart {
+package utils;
+public class Cart {
   // FROM GITHUB
 }
   
